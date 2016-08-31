@@ -6,7 +6,7 @@ Duphus' Finite State Machine was designed for MonoGame however should (in theory
 Simply drag this anywhere into a Visual Studio Project.
 The following will create and setup a basic FiniteStateMachine:
 
-```
+```cs
 using Dupus.FiniteStateMachine;
 
 namespace YourNamespace
