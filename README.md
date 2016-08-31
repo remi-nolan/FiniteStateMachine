@@ -7,7 +7,7 @@ Simply drag this anywhere into a Visual Studio Project.
 The following will create and setup a basic FiniteStateMachine:
 
 ```cs
-using Dupus.FiniteStateMachine;
+using Dupus.FSM;
 
 namespace YourNamespace
 {
