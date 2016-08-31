@@ -2,6 +2,7 @@
 A re-usable Finite State Machine for C#
 
 # Usage
+Duphus' Finite State Machine was designed for MonoGame however should (in theory) work with the Unity Engine.
 Simply drag this anywhere into a Visual Studio Project.
 The following will create and setup a basic FiniteStateMachine:
 
