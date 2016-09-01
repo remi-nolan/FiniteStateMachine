@@ -1,5 +1,5 @@
 # FiniteStateMachine
-A re-usable Finite State Machine for C#
+A versatile Finite State Machine for C#
 
 # Usage
 Duphus' Finite State Machine was designed for MonoGame however should (in theory) work with the Unity Engine.
